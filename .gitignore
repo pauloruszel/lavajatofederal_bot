@@ -66,3 +66,5 @@ coverage.xml
 
 # Log files
 *.log
+
+credentials.json
